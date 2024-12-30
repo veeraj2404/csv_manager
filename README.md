@@ -1,0 +1,1 @@
+Developed an application for importing, editing, and exporting CSV files with a modular design and an intuitive React-based frontend for seamless user interaction.
